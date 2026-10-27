@@ -11,6 +11,7 @@ else:
 #else if se usa elif en Python
 plata=0
 
+
 if plata >= 1000:
     print("Tienes suficiente dinero")
 elif plata > 0:
